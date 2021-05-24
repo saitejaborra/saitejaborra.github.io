@@ -59,7 +59,7 @@ a{
 .matter,.second,.third,.fourth,.lastline,.gallery{
     opacity: 0;
     transform: translateY(-60px);
-    transition: 0.5s all ease-in-out;
+    transition: 1s all ease-in-out;
     z-index: 0;
 }
 .matter-appear{
